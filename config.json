@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionrpdate",
+        "uuid": 2083882,
+        "checksum": "4iziw7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
